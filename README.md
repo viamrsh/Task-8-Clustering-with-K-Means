@@ -1,4 +1,4 @@
-# Task-8-Clustering-with-K-Means
+# Clustering-with-K-Means
 
 1.Load and visualize dataset (optional PCA for 2D view).
 
